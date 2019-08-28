@@ -1,0 +1,29 @@
+:root {
+  color: #999 ;
+  background-color: #1c1c1c;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+header {
+  font-family: 'Karla', sans-serif;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+
+.box-grid {
+  display: grid;
+  justify-items: center;
+} 
+
+.box {
+  background-color: blue;
+  width: 95%;
+  height: 50vw;
+  border: solid 2px black;
+} 
+
+
