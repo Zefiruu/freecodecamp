@@ -29,15 +29,22 @@ body {
     color: rgb(248, 248, 248)
 }
 
-.cloud-pic {
+#image {
     margin: 2rem 0 0 0;
     padding: 0;
     width: 85%;
     border: 2px solid rgb(250, 240, 182);
 }
 
+#img-caption {
+    font-style: italic;
+    font-size:.8rem;
+}
+
+
 .cloud-intro {
     width: 70%;
     text-align: center;
     margin-left: 14%;
+    padding-top: 2rem;
 }
